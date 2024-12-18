@@ -1,7 +1,7 @@
 # DualRoymo
 Diario personal de la formación en la empresa Rommel &amp; Montgomery
 ----------------------
-16/12/2024
+16/12/2024 <br> 
 Hora de entrada: 9:30 | Hora de salida: 14:00 
 Presentación en el centro de trabajo conociendo los diferentes departamentos de la empresa. Después mi tutor estuvo explicándome la forma en la que trabaja la empresa, los proyectos futuros que se me asignarán siendo uno este mismo jueves y las herramientas que usan para desarrollar y maquetar una web ya que el diseño en Figma corre por parte del departamento de diseño.
 Usaremos Wordpress para crear las páginas y dentro de este un constructor que se llama Bricks. Después de la teoría me puse a hacer un proyecto para un cliente que ya está acabado pero para ir cogiendo la forma de trabajo.
