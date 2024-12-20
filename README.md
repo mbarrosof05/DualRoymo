@@ -15,3 +15,11 @@ Continuación del proyecto que me asignaron el día anterior cuyo enlace es http
 Hoy he estado viendo más contenido como son los plugins de wordpress, especialmente el plugin AFC que sirve para hacer dinámica una web, permite a los desarrolladores y usuarios agregar y gestionar campos personalizados en las páginas. Me tengo que adaptar a trabajar con ello ya que en la empresa se usa mucho ya que facilita la entrada de datos en el backend para personas que no son desarolladores, en la empresa será el departamento de contenidos, aunque nosotros también nos encargaremos en parte de ello para repartir tares.
 
 ----------------------
+<strong> 19/12/2024 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Hoy asistí con mi tutor a la comisaría de policía de Cáceres ya que teníamos que hacer modificaciones en la webpol. A mi me encargó una tarea que fue añadir un buscador en dos páginas. El código php me lo facilitó él y yo me encargué de maquetarlo.
+Después volvimos a la empresa sobre las 11:00 y hablé con él en cuanto al trabajo voluntario de Navidad pidiéndole que me asigne algún pequeño proyecto para continuar practicando.
+
+----------------------
+<strong> 20/12/2024 <br> Falta de asistencia </strong> <br>
+Falta por causa personal justificada. Ya le comenté el día anterior al tutor lo sucedido.
+
