@@ -22,4 +22,18 @@ Después volvimos a la empresa sobre las 11:00 y hablé con él en cuanto al tra
 ----------------------
 <strong> 20/12/2024 <br> Falta de asistencia </strong> <br>
 Falta por causa personal justificada. Ya le comenté el día anterior al tutor lo sucedido.
+----------------------
+<strong> 08/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 11:00 </strong> <br>
+Para comenzar el año continuio con prácticas acorde a la forma que tiene de trabajar la empresa. Para ello me pondré esta semana con una página de un sitio web ya publicado https://mrpets.es/perros/#perros utilizando plugins como son WooCommerce. Con este podemos desarrollar una tienda online de forma dinámica y ahorrándonos mucho tiempo de trabajo.
 
+----------------------
+----------------------
+<strong> 09/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Hoy continué el proyecto con el que comencé ayer, descubriendo más sobre WooCommerce y maquetando el resto de la página.
+
+----------------------
+----------------------
+<strong> 10/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Hoy finalicé la página que me asignó mi tutor llevando a cabo las tareas de desarrollo front-end, para las cuales si que el desarrollo es a partir de los lenguajes php y javascript. En estas tareas se incluyen elementos como el buscador, el menú o los filtros de la página. También se realizó la reunión anual en mi empresa, a la cual asistí aunque no participé, planteando los objetivos para el año nuevo, ya que ahora no hay muchos clientes potenciales, lo cual también me repercutirá a mi a la hora de asignarme cualquier tipo de proyecto.
+
+----------------------
