@@ -38,19 +38,20 @@ Hoy finalicé la página que me asignó mi tutor llevando a cabo las tareas de d
 
 ----------------------
 <strong> 13/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
-
+Al comenzar una semana nueva mi tutor me suele asignar conocimientos nuevos. Esta semana comenzaremos con las consultas php hacia las bases de datos, de primeras es algo desconocido encima siendo en wordpress, pero seguro que me adapto pronto.
 ----------------------
 <strong> 14/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
-
+En cuanto a los conocimientos semanales, voy a tener que llevar a cabo el menú de filtros de la siguiente página https://klinema.com/catalogo/ . En wordpress se trabajan con taxonomías post types etc por lo que me tengo que hacer a la forma de trabajar. No es necesario refrescar las consultas de bases de datos ya que wpress tiene funciones automáticas para ello por lo que el trabajo puede facilitarse.
 ----------------------
 <strong> 15/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 11:00 </strong> <br>
-
+Hoy estuve haciendo respuestas automáticas para los correos de algún cliente y que corría prisa y me designaron el trabajo. Se hacen con un lenguaje parecido a xml y eso me llevó las 3 horas que estuve ya que hice 7 correos personalizados.
 ----------------------
 <strong> 16/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
-
+De repente entró prisa con una de las páginas por parte de un cliente. Este quería añadir una sección nueva y nos hizo constar su urgencia. Mi tutor directamente me la asignó a mi y solo fue maquetarla, aunque me llevó todo el día de hoy ya que había que adaptarla a todos los dispositivos posibles. La página es la siguiente https://mrpets.es/distribuidores
 ----------------------
 <strong> 17/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
-
+El equipo de diseño nos asignó cambiar el formulario de la página hecha ayer. Se hace con un plugin llamado Brevo y no tardé nada pero encontramos el error de que al cliente no le llegaban correctos todos los datos, todos vacíos excepto el email. A mi tutor y a mí llevado un rato encontrar el fallo ya que es un simple formulario y puede que dependiese de un error del plugin.
+La semana finaliza bastante bien, teniendo en cuenta que cada vez me designan un poquito más de responsabilidad, aunque hay que decir que la formación queda un poco apartada.
 ----------------------
 
 
