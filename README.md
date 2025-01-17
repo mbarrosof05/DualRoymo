@@ -37,3 +37,20 @@ Hoy continué el proyecto con el que comencé ayer, descubriendo más sobre WooC
 Hoy finalicé la página que me asignó mi tutor llevando a cabo las tareas de desarrollo front-end, para las cuales si que el desarrollo es a partir de los lenguajes php y javascript. En estas tareas se incluyen elementos como el buscador, el menú o los filtros de la página. También se realizó la reunión anual en mi empresa, a la cual asistí aunque no participé, planteando los objetivos para el año nuevo, ya que ahora no hay muchos clientes potenciales, lo cual también me repercutirá a mi a la hora de asignarme cualquier tipo de proyecto.
 
 ----------------------
+<strong> 13/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+
+----------------------
+<strong> 14/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+
+----------------------
+<strong> 15/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 11:00 </strong> <br>
+
+----------------------
+<strong> 16/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+
+----------------------
+<strong> 17/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+
+----------------------
+
+
