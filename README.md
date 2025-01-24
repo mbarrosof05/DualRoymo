@@ -73,12 +73,12 @@ Aparte estuve viendo la herramienta de tag manager que aunque también esté ori
 Hoy orienté el día a ver los eventos de medición de las páginas. Estuve creando dos eventos, uno de ellos para ver las personas que hacen click en un determinado producto para luego mandarles un correo por si siguen interesados y otro evento para el momento en el que alguien se suscribe a la newsletter a través del submit del formulario.
 
 ----------------------
-<strong> 23/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 11:00 </strong> <br>
+<strong> 23/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
 En primer lugar estuve buscando plugins en wpress para poder incluir  a una web el log with google y que así los usuarios no tengan que poner manualmente sus datos. Fue difícil encontrar un plugin ya que son de pago en su mayoría.
 Por otro lado me han asignado un pequeño proyecto en el cual me ayudará el tutor ya que la conexión con bbdd no la he visto aún. El proyecto consiste en crear una aplicación interna para clientes en la cual registraremos usuarios, url asociadas a ellos y los logs de estas url. El objetivo es que en el momento que una web de un error de conexión o esté caída por cualquier motivo automaticemos un envío de un correo electrónico al usuario administrador.
 
 ----------------------
-<strong> 24/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 11:00 </strong> <br>
+<strong> 24/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
 Hoy continué con el proyecto de ayer. Finalicé el diseño, aunque fue simple, y comencé a ver la conexión hacia la base de datos desde php y ejemplos de consultas, aunque no he profundizado mucho más.
 
 ----------------------
