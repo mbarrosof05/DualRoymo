@@ -82,3 +82,15 @@ Por otro lado me han asignado un pequeño proyecto en el cual me ayudará el tut
 Hoy continué con el proyecto de ayer. Finalicé el diseño, aunque fue simple, y comencé a ver la conexión hacia la base de datos desde php y ejemplos de consultas, aunque no he profundizado mucho más.
 
 ----------------------
+<strong> 27/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+
+----------------------
+<strong> 28/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+
+----------------------
+<strong> 29/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+
+----------------------
+<strong> 30/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+
+----------------------
