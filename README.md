@@ -96,7 +96,7 @@ Continué con el olvidar contraseña del día anterior, siendo todo el intercamb
 
 ----------------------
 <strong> 30/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
-Finalicé el olvidar contraseña y me puse con el login. Finalicé todos los detlles de diseño que quedaban y estoy a la espera de que mi tutor lo revise y pueda seguir avanzando.
+Finalicé el olvidar contraseña y me puse con el login. Finalicé todos los detlles de diseño que quedaban y estoy a la espera de que mi tutor lo revise y pueda seguir avanzando ya que hay pasos a seguir en los que no he conseguido al 100% la funcionalidad esperada.
 Mientras tanto para no perder el tiempo, trabajé en un proyecto que me asignaron que quedó a medias por este otro, llevando a cabo el diseño de varias páginas a través de wordPress.
 
 ----------------------
