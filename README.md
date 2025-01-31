@@ -83,14 +83,20 @@ Hoy continué con el proyecto de ayer. Finalicé el diseño, aunque fue simple, 
 
 ----------------------
 <strong> 27/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Comencé la semana con el proyecto asignado. Hoy me dediqué a profundizar en el tema de las conexiones con base de datos desde php, ya que en el instituto no llegué a tocarlo. Trabajamos con un servidor en plesk y la bbdd se crea desde phpMyAdmin por lo que únicamente haremos las consultas necesarias desde php, la creación y modificación de campos es desde ahí.
 
 ----------------------
 <strong> 28/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Hoy estuve haciendo la página de users y urls del proyecto. En estas se tienen que mostrar todos los usuarios y urls añadidas y se tiene que permitir añadir en ambos. Para las dos páginas, muy parecidas, hay que hacer consultas a la bbdd, habiendo creado antes un fichero de conexión con esta. En la página de url al pulsar cada una de la tabla te tiene que aparecer un popup con los logs que ha remitido esta.
+Posteriormente comencé con el desarrollo, dentro del login, de olvidar contraseña. Esto envía un enlace a tu correo electrónico para que puedas cambiarla.
 
 ----------------------
-<strong> 29/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+<strong> 29/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 11:00 </strong> <br>
+Continué con el olvidar contraseña del día anterior, siendo todo el intercambio de datos a través de AJAX, que tampoco he llegado a ver en el instituto, por lo que me ha llevado y llevará mucho tiempo de hoy y mañana.
 
 ----------------------
 <strong> 30/01/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Finalicé el olvidar contraseña y me puse con el login. Finalicé todos los detlles de diseño que quedaban y estoy a la espera de que mi tutor lo revise y pueda seguir avanzando.
+Mientras tanto para no perder el tiempo, trabajé en un proyecto que me asignaron que quedó a medias por este otro, llevando a cabo el diseño de varias páginas a través de wordPress.
 
 ----------------------
