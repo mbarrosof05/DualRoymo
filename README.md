@@ -101,10 +101,15 @@ Mientras tanto para no perder el tiempo, trabajé en un proyecto que me asignaro
 
 ----------------------
 <strong> 03/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
-Hoy 
+Hoy continué con el proyecto asignado. Me puse a integrar diferentes librerías asociadas con el diseño referentes a los popups de alerta en primer lugar y luego continué con la creación de la cookie de usuario y la creación de un token asociado a través de la librería JWT. En cada una de las páginas verificaremos si el token existe y si no se redirigirá a la de login, aparte asocié un tiempo de expiración, el cual cuando acabe, hará lo mismo.
 
 ----------------------
 <strong> 04/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
-Continué con el olvidar contraseña del día anterior, siendo todo el intercambio de datos a través de AJAX, que tampoco he llegado a ver en el instituto, por lo que me ha llevado y llevará mucho tiempo de hoy y mañana.
+Continué haciendo otra página de logs asociada a la de urls. Se muestra en forma de popup y aparecen la hora y el código de respuesta de los últimos. Esta va asociada con una tabla de la bbdd llamada Logs, la cual sincronizaremos con las Urls más adelante.
+Uso de la librería Select2 para los formularios con la cual podemos añadir más de una opción con el fin de, en este caso, mandar avisos a más de un usuario de que su web está caída, suspendida etc...
+
+----------------------
+<strong> 05/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 11:00 </strong> <br>
+
 
 ----------------------
