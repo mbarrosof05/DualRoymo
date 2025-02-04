@@ -100,3 +100,11 @@ Finalicé el olvidar contraseña y me puse con el login. Finalicé todos los det
 Mientras tanto para no perder el tiempo, trabajé en un proyecto que me asignaron que quedó a medias por este otro, llevando a cabo el diseño de varias páginas a través de wordPress.
 
 ----------------------
+<strong> 03/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Hoy 
+
+----------------------
+<strong> 04/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Continué con el olvidar contraseña del día anterior, siendo todo el intercambio de datos a través de AJAX, que tampoco he llegado a ver en el instituto, por lo que me ha llevado y llevará mucho tiempo de hoy y mañana.
+
+----------------------
