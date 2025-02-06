@@ -110,6 +110,17 @@ Uso de la librería Select2 para los formularios con la cual podemos añadir má
 
 ----------------------
 <strong> 05/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 11:00 </strong> <br>
+Después de todo el trabajo con la página de url haciendo consultas para cada campo lo dejamos de lado y creamos una vista en mysql para que salgan directamente los datos que queremos con solo una consulta. Hoy cundió poco más la mañana ya que esa vista trajo problemas añadidos.
 
+----------------------
+<strong> 06/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Hoy asistí aunque mi tutor tenía el día libre.
+Continué con la página de urls finalizando los logs para que solo salga el último código. Posteriormente me puse con la tabla de avisos de la bbdd creando un php en el cual haré consultas sobre las url y los logs. Cuando los logs de una url tengan un código diferente a 200 (éxito) tendré que mandar un mail a todos los usuarios seleccionados anteriormente mencionándoles que su web tiene problemas. Si es más de una web lo juntaremos todo en un mail.
+Esto seguro que me lleva el fin del día de hoy y mañana en gran parte.
+
+----------------------
+<strong> 07/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Continúo con el trabajo de ayer y una vez hecho finalicé el proyecto de aplicación web interna para la empresa.
+La semana que viene imagino que me tiraré por una rama distinta.
 
 ----------------------
