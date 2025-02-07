@@ -120,7 +120,8 @@ Esto seguro que me lleva el fin del día de hoy y mañana en gran parte.
 
 ----------------------
 <strong> 07/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
-Continúo con el trabajo de ayer y una vez hecho finalicé el proyecto de aplicación web interna para la empresa.
-La semana que viene imagino que me tiraré por una rama distinta.
+Hoy por fin finalicé el proyecto conitnuando con el tema de los avisos a los usuarios cunado la web tenga problemas. Si no es así cada 8 horas le llegará un mail a mi tutor corroborando que todo va bien. Este mail es también por asegurar que esta aplicacion interna no esté caida.
+Ha sido un poco duro a nivel personal pero he aprendido bastante.
+A parte todos los viernes tenemos una pequeña charla, hoy ha tocado de prevención de riesgos laborales en nuestro sector.
 
 ----------------------
