@@ -125,3 +125,12 @@ Ha sido un poco duro a nivel personal pero he aprendido bastante.
 A parte todos los viernes tenemos una pequeña charla, hoy ha tocado de prevención de riesgos laborales en nuestro sector.
 
 ----------------------
+<strong> 10/02/2025 </strong> <br>
+Falta de asistencia.
+
+----------------------
+<strong> 11/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Pensaba que el proyecto había finalizado pero se van a ir añadiendo utilidades de forma constante asique me puse con ellas. La principal la creación de correos electrónicos por defecto a partir del lenguaje mjml. 
+Hoy no estaba mi tutor por lo que después de ello intenté no perder el tiempo, aunque la mañana no ha sido muy productiva.
+
+----------------------
