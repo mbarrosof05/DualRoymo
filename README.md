@@ -134,3 +134,16 @@ Pensaba que el proyecto había finalizado pero se van a ir añadiendo utilidades
 Hoy no estaba mi tutor por lo que después de ello intenté no perder el tiempo, aunque la mañana no ha sido muy productiva.
 
 ----------------------
+<strong> 12/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 11:00 </strong> <br>
+Seguimos añadiendo nuevos elementos a la página ultimándola para su publicción. Al haberla llevado a cabo yo he tenido que explicar su funcionamiento a los responsables de los diferentes departamentos, aunque el que la gestionará en su mayor parte será el de desarrollo
+
+----------------------
+<strong> 13/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Roymo está con la actualización de su web de forma completa, ya están ultimándola para desplegarla y llevan con su desarrollo más de un mes. Por ello hoy me ha tocado analizar la web buscando fallos en la parte del front-end y en la maquetación (fallos en enlaces, imágenes con poca calidad, fallos en textos etc...) La web tiene modo claro y oscuro por lo que la revisión de textos es muy importante para su visualización. 
+Mañana ocuparé gran parte de la mañana a revisar la versión móvil.
+
+----------------------
+<strong> 14/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+
+
+----------------------
