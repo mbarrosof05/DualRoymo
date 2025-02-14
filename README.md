@@ -144,6 +144,6 @@ Mañana ocuparé gran parte de la mañana a revisar la versión móvil.
 
 ----------------------
 <strong> 14/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
-
+Finalicé la revisión de la página que ha sido publicada y el proyecto que he estado llevando a cabo también. Ahí se recogerá el funcionamiento de las páginas de los clientes para que en el momento de que den cualquier fallo (404, 503, 500) llegue un mail de aviso y podamos subsanarlo lo antes posible.
 
 ----------------------
