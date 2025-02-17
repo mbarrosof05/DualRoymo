@@ -147,3 +147,7 @@ Mañana ocuparé gran parte de la mañana a revisar la versión móvil.
 Finalicé la revisión de la página que ha sido publicada y el proyecto que he estado llevando a cabo también. Ahí se recogerá el funcionamiento de las páginas de los clientes para que en el momento de que den cualquier fallo (404, 503, 500) llegue un mail de aviso y podamos subsanarlo lo antes posible.
 
 ----------------------
+<strong> 17/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Hoy dediqué la mañana a una página que corría prisa. Me dediqué a hacer la cabecera, el footer y un formulario con paginación a través de forminator (un plugin de Wordpress) y sus respuestas automáticas por correo electrónico. Página web en cuestión: https://formulario.roymo.info/home :O
+
+----------------------
