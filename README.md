@@ -151,3 +151,11 @@ Finalicé la revisión de la página que ha sido publicada y el proyecto que he 
 Hoy dediqué la mañana a una página que corría prisa. Me dediqué a hacer la cabecera, el footer y un formulario con paginación a través de forminator (un plugin de Wordpress) y sus respuestas automáticas por correo electrónico. Página web en cuestión: https://formulario.roymo.info/home :O
 
 ----------------------
+<strong> 18/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Hoy dediqué la mañana a un nuevo proyecto. Se quiere hacer un kit de herramientas de marca para cada cliente. Es decir, a través de desarrollo mostrar logo de la marca, colores principales, tipografía, documentos etc... es decir sus rasgos de marca. En cada uno de esos módulos habrá más de un elemento por lo que hay que llevar a cabo el desarrollo del html css y js. Lo que se quiere hacer es poder llegar a hacerlo dinámico y no tener que ir modificando cada archivo para todos los clientes.
+
+----------------------
+<strong> 19/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 11:00 </strong> <br>
+Continué con el proyecto de ayer incluyendo contenido como forma de prueba de uso y para ver si convence al equipo de diseño. En un principio sehará con el toolkit de Roymo y si convence se comenzará a desarrollar de una forma dinámica.
+
+----------------------
