@@ -156,6 +156,16 @@ Hoy dediqué la mañana a un nuevo proyecto. Se quiere hacer un kit de herramien
 
 ----------------------
 <strong> 19/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 11:00 </strong> <br>
-Continué con el proyecto de ayer incluyendo contenido como forma de prueba de uso y para ver si convence al equipo de diseño. En un principio sehará con el toolkit de Roymo y si convence se comenzará a desarrollar de una forma dinámica.
+Continué con el proyecto de ayer incluyendo contenido como forma de prueba de uso y para ver si convence al equipo de diseño. En un principio se hará con el toolkit de Roymo y si convence se comenzará a desarrollar de una forma dinámica.
+
+----------------------
+<strong> 20/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Continúo con el proyecto, mañana comenzaré a hacerlo de forma dinámica a partir de JSON.
+A parte de ello, todas las mañanas surgen trabajos de mantenimiento que tienen más ugrencia. Hoy hice dos, uno relacionado con el envío de correos personalizados a suscriptores de una newsletter y otro de una página con header, footer y formulario para otro cliente.
+
+----------------------
+<strong> 21/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Hoy tenemos una reunión como todos los días, al acabar esta me tocó explicar delante de los compañeros el funcionamiento de la aplicación web que creé hace un par de semanas en la que se automatiza el envío de mails en caso de caídas de las páginas webs, resumidamente.
+A parte, continué con el proyecto asignado, el que me llevará un tiempo ya que el manejo de JSON que tengo es excaso.
 
 ----------------------
