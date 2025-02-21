@@ -161,7 +161,7 @@ Continué con el proyecto de ayer incluyendo contenido como forma de prueba de u
 ----------------------
 <strong> 20/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
 Continúo con el proyecto, mañana comenzaré a hacerlo de forma dinámica a partir de JSON.
-A parte de ello, todas las mañanas surgen trabajos de mantenimiento que tienen más ugrencia. Hoy hice dos, uno relacionado con el envío de correos personalizados a suscriptores de una newsletter y otro de una página con header, footer y formulario para otro cliente.
+A parte de ello, todos los días surgen trabajos de mantenimiento que tienen más ugrencia, a los que dediqué la mayor parte de la mañana. Hoy hice dos, uno relacionado con el envío de correos personalizados a suscriptores de una newsletter y otro de una página con header, footer y formulario para otro cliente por una confusión el Lunes.
 
 ----------------------
 <strong> 21/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
