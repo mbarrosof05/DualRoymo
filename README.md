@@ -166,6 +166,6 @@ A parte de ello, todas las mañanas surgen trabajos de mantenimiento que tienen 
 ----------------------
 <strong> 21/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
 Hoy tenemos una reunión como todos los días, al acabar esta me tocó explicar delante de los compañeros el funcionamiento de la aplicación web que creé hace un par de semanas en la que se automatiza el envío de mails en caso de caídas de las páginas webs, resumidamente.
-A parte, continué con el proyecto asignado, el que me llevará un tiempo ya que el manejo de JSON que tengo es excaso.
+A parte, continué con el proyecto asignado, el que me llevará un tiempo ya que he comenzado con conceptos nuevos en cuanto a JSON, Node.js y CSS Nesting
 
 ----------------------
