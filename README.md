@@ -169,3 +169,7 @@ Hoy tenemos una reunión como todos los días, al acabar esta me tocó explicar 
 A parte, continué con el proyecto asignado, el que me llevará un tiempo ya que he comenzado con conceptos nuevos en cuanto a JSON, Node.js y CSS Nesting
 
 ----------------------
+<strong> 24/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Continuación con el proyecto: diseño hecho a partir del anterior, creación del html a partir de un .js con node.js, recogida de datos a partir de archivos JSON completada y comienzo de las funcionalidades que es lo que más se va a complicar.
+
+----------------------
