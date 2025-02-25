@@ -173,3 +173,8 @@ A parte, continué con el proyecto asignado, el que me llevará un tiempo ya que
 Continuación con el proyecto: diseño hecho a partir del anterior, creación del html a partir de un .js con node.js, recogida de datos a partir de archivos JSON completada y comienzo de las funcionalidades que es lo que más se va a complicar.
 
 ----------------------
+<strong> 25/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Hoy he continuado con el proyecto casi finalizándolo. Solo quedan algunos detalles.
+Solo lo tengo hecho con un cliente (nuestra empresa) en este caso, por lo que probaré con otro para asegurar su funcionamiento al 100%. Pensé que me llevaría mucho más tiempo, por lo que estoy contenta y creo que el ellos también.
+
+----------------------
