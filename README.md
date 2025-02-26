@@ -178,3 +178,7 @@ Hoy he continuado con el proyecto casi finalizándolo. Solo quedan algunos detal
 Solo lo tengo hecho con un cliente (nuestra empresa) en este caso, por lo que probaré con otro para asegurar su funcionamiento al 100%. Pensé que me llevaría mucho más tiempo, por lo que estoy contenta y creo que el ellos también.
 
 ----------------------
+<strong> 26/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 11:00 </strong> <br>
+Hoy he probado cambiando el JSON del proyecto par otro cliente comprobando los problemas que puede haber. De momento todo ha ido bien, solo he mejorado alguna función y demás por lo que mañana comenzaré con algo diferente.
+
+----------------------
