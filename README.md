@@ -182,3 +182,12 @@ Solo lo tengo hecho con un cliente (nuestra empresa) en este caso, por lo que pr
 Hoy he probado cambiando el JSON del proyecto par otro cliente comprobando los problemas que puede haber. De momento todo ha ido bien, solo he mejorado alguna función y demás por lo que mañana comenzaré con algo diferente.
 
 ----------------------
+<strong> 27/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Hoy me ha tocado trabajar con funciones de wordpress para un cliente. En esta página https://www.mintec.es/ querían asociar unos productos a otros por si en algún momento se descatalogan. Para ello hay que modificar archivos por defecto de cada página en wordpress. Todo ello en php usando funciones como  https://developer.wordpress.org/reference/functions/add_meta_box/ o esta https://developer.wordpress.org/reference/hooks/save_post/, es decir, explorando a fondo la documentación de WordPress.
+
+----------------------
+<strong> 28/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Habiendo hecho la parte de backend ayer, hoy me centré en maquetar cada plantilla de producto para que en el caso de que sea descatalogado, te salga una lista de los similares.
+Solamente eso, el nivel de trabajo en la empresa ahora mismo es bajo, por lo que hay mañanas en las que falta actividad.
+
+----------------------
