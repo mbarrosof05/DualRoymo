@@ -191,3 +191,12 @@ Habiendo hecho la parte de backend ayer, hoy me centré en maquetar cada plantil
 Solamente eso, el nivel de trabajo en la empresa ahora mismo es bajo, por lo que hay mañanas en las que falta actividad.
 
 ----------------------
+<strong> 05/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 11:00 </strong> <br>
+Falta de asistencia injustificada. Tuve un golpe con el coche y estoy esperando el parte para proporcionarlo a la empresa. 
+
+----------------------
+<strong> 06/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+ Hoy estuve haciendo unas mejoras en la aplicación campañas sugeridas por un compañero, tales como la modificación de urls o usuarios. Más tarde tuve la reunión con Alejandro en la cual hablamos un poquto sobre las evaluación de la fct.
+ Por otro lado comienzo con mi proyecto final de grado, ya que el nivel de trabajo ahora mismo en Rommel es excaso.
+
+----------------------
