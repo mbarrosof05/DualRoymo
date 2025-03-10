@@ -200,3 +200,13 @@ Falta de asistencia injustificada. Tuve un golpe con el coche y estoy esperando 
  Por otro lado comienzo con mi proyecto final de grado, ya que el nivel de trabajo ahora mismo en Rommel es excaso.
 
 ----------------------
+----------------------
+<strong> 07/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Hoy se cayó la página web de la empresa debido a un conflicto entre spam de formularios y estuvimos toda la mañana liados. Al final conseguimos solucionarlo con un plugin diferente de wordpress llamado forminator.
+
+----------------------
+----------------------
+<strong> 10/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Hoy dediqué la mayor parte de la mañana a mi TFG.
+
+----------------------
