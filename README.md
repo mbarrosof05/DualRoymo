@@ -207,6 +207,7 @@ Hoy se cayó la página web de la empresa debido a un conflicto entre spam de fo
 ----------------------
 ----------------------
 <strong> 10/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
-Hoy dediqué la mayor parte de la mañana a mi TFG.
+Hoy estuvimos viendo bastante el tema de servidores. Estuve instalando un servidor nuevo, agregando dominios, instalando plesk dentro de él etc... Trabajando con la plataforma IONOS.
+Aparte de ello dediqué la mayor parte de la mañana a mi TFG. 
 
 ----------------------
