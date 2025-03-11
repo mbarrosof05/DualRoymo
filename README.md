@@ -200,14 +200,25 @@ Falta de asistencia injustificada. Tuve un golpe con el coche y estoy esperando 
  Por otro lado comienzo con mi proyecto final de grado, ya que el nivel de trabajo ahora mismo en Rommel es excaso.
 
 ----------------------
-----------------------
 <strong> 07/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
 Hoy se cayó la página web de la empresa debido a un conflicto entre spam de formularios y estuvimos toda la mañana liados. Al final conseguimos solucionarlo con un plugin diferente de wordpress llamado forminator.
 
 ----------------------
-----------------------
 <strong> 10/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
 Hoy estuvimos viendo bastante el tema de servidores. Estuve instalando un servidor nuevo, agregando dominios, instalando plesk dentro de él etc... Trabajando con la plataforma IONOS.
 Aparte de ello dediqué la mayor parte de la mañana a mi TFG. 
+
+----------------------
+<strong> 11/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Hoy he estado con instalación de un servidor y actualizaciones de servicios como Mautic y Plesk y con migraciones de bases de datos y archivos de dominios a subdominios u otros a través de terminal y panel de Plesk.
+
+----------------------
+<strong> 12/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 11:00 </strong> <br>
+Hoy
+
+----------------------
+----------------------
+<strong> 13/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 14:00 </strong> <br>
+Último dia:
 
 ----------------------
