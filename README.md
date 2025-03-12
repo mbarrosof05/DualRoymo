@@ -214,7 +214,7 @@ Hoy he estado con instalación de un servidor y actualizaciones de servicios com
 
 ----------------------
 <strong> 12/02/2025 <br> Hora de entrada: 8:00 | Hora de salida: 11:00 </strong> <br>
-Hoy
+Hoy estuve completando formularios, correos electrónicos y demás de una campaña de marketing de un cliente. Todo ello en mautic.
 
 ----------------------
 ----------------------
